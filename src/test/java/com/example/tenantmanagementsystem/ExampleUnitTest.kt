@@ -9,6 +9,7 @@ class ExampleUnitTest {
 
     private lateinit var viewModel: TenantViewModel
 
+
     @Before
     fun setUp() {
         viewModel = TenantViewModel()
