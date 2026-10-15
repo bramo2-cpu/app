@@ -5,17 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Tenant-Management-System--main" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/Tenant-Management-System--main" />
-            <option value="$PROJECT_DIR$/Tenant-Management-System--main/app" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="testRunner" value="CHOOSE_PER_TEST" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Tenant-Management-System--main/gradle" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="24" />
       </GradleProjectSettings>
     </option>
